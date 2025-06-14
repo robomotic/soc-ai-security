@@ -2,7 +2,7 @@
 
 **Classification:** TLP:WHITE - Public Disclosure  
 **Research Type:** Offensive Security Research for Defensive Purposes  
-**Publication Date:** January 2025
+**Publication Date:** June 2025
 
 ## Executive Summary
 
